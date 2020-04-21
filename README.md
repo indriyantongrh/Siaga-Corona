@@ -1,6 +1,6 @@
 # Siaga Corona
 
-Proyek untuk mengetahui data penyebaran COVID-19  di Indonesia, dengan menggunakan API https://api.kawalcorona.com/
+Project to find out data on the spread of COVID-19 in Indonesia, using the API https://api.kawalcorona.com/
 
 ## Mockup :
 
